@@ -27,3 +27,8 @@ button{
 	width:100%;
 	outline-style:none;
 }
+
+footer > div{
+	background-color:rgba(0,0,0);
+	color:#fff;
+}
